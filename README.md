@@ -1,0 +1,1 @@
+# Exerc-cios-fixa-o-comando-cut
